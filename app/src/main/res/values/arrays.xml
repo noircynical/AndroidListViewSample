@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="listcontent">
+        <item>Red</item>
+        <item>Orange</item>
+        <item>Blue</item>
+        <item>Green</item>
+        <item>Yellow</item>
+        <item>White</item>
+        <item>Red</item>
+        <item>Orange</item>
+        <item>Blue</item>
+        <item>Green</item>
+        <item>Yellow</item>
+        <item>White</item>
+        <item>Red</item>
+        <item>Orange</item>
+        <item>Blue</item>
+        <item>Green</item>
+        <item>Yellow</item>
+        <item>White</item>
+    </string-array>
+    <string-array name="listcontent2">
+        <item>Cake</item>
+        <item>Cola</item>
+        <item>Sprite</item>
+        <item>Fanta</item>
+        <item>Coffee</item>
+        <item>Latte</item>
+        <item>Cake</item>
+        <item>Cola</item>
+        <item>Sprite</item>
+        <item>Fanta</item>
+        <item>Coffee</item>
+        <item>Latte</item>
+    </string-array>
+    <string-array name="listcontent3">
+        <item>Cat</item>
+        <item>Dog</item>
+        <item>Aligator</item>
+        <item>Elephant</item>
+        <item>Monkey</item>
+        <item>Rabbit</item>
+        <item>Snake</item>
+        <item>Rat</item>
+        <item>Hat</item>
+    </string-array>
+</resources>
